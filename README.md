@@ -11,3 +11,7 @@ in or out
 ## file
 
 学习 java.io.File 类
+
+## random-access-file
+
+学习 RandomAccessFile
