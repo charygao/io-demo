@@ -15,3 +15,9 @@ in or out
 ## random-access-file
 
 学习 RandomAccessFile
+
+## i-o
+
+io流
+
+包括file流，字节流

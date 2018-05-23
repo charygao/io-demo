@@ -119,10 +119,10 @@ public class IOUtil {
         fout.close();
 
         // 检查是否复制成功
-        printHex(file1);
+        /*printHex(file1);
         System.out.println();
         System.out.println("---------------------------------------");
-        printHex(file2);
+        printHex(file2);*/
     }
 
 }
