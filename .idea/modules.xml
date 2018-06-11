@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/file/file.iml" filepath="$PROJECT_DIR$/file/file.iml" />
       <module fileurl="file://$PROJECT_DIR$/i-o/i-o.iml" filepath="$PROJECT_DIR$/i-o/i-o.iml" />
       <module fileurl="file://$PROJECT_DIR$/random-access-file/random-access-file.iml" filepath="$PROJECT_DIR$/random-access-file/random-access-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serialize-demo/serialize-demo.iml" filepath="$PROJECT_DIR$/serialize-demo/serialize-demo.iml" />
     </modules>
   </component>
 </project>
